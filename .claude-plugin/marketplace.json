@@ -419,6 +419,20 @@
         "sha": "6f41866ea66c63eb80c42e6f652efdac5870e540"
       },
       "homepage": "https://kensho.com"
+    },
+    {
+      "name": "twilio-developer-kit",
+      "description": "Twilio Skills provide procedural knowledge for AI coding agents — which APIs to use, in what order, and what to avoid. Covers SMS, Voice, WhatsApp, Verify, SendGrid, Compliance, and 30+ products.",
+      "author": {
+        "name": "Twilio"
+      },
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/twilio/ai.git",
+        "sha": "0713fb1f40b5e871cad4c1c99f603c812431692a"
+      },
+      "homepage": "https://www.twilio.com"
     }
   ]
 }
